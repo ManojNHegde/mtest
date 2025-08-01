@@ -1,3 +1,4 @@
 speechrecognition  
 ffmpeg-python  
 pydub  
+pyaudio
