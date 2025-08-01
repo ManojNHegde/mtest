@@ -1,4 +1,4 @@
-speechrecognition  
-ffmpeg-python  
-pydub  
+SpeechRecognition
+ffmpeg-python
+pydub
 pyaudio
